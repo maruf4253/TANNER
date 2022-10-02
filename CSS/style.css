@@ -1,0 +1,43 @@
+/*========================
+      Global  Font CSS 
+=========================*/
+@import url('http://fonts.cdnfonts.com/css/hello-america');               
+@import url('http://fonts.cdnfonts.com/css/brich');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+/*========================
+  `     Global CSS 
+=========================*/
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+h1{
+
+}
+p{
+
+}
+
+
+
+/*========================
+ owl section-00 CSS
+=========================*/
+.owl-section{
+  background: darkgrey;
+  padding: 40px 0 40px;
+}
+.owl-section .col-12{
+  text-align: center;
+} 
+.owl-section h1{
+  color: aqua;
+  padding-bottom: 20px;
+}
+.owl-theme .owl-dots .owl-dot span {
+  background: blue;
+}
+
+.owl-theme .owl-dots .owl-dot.active span{
+  background: green;
+}
+
